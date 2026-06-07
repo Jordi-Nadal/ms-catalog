@@ -1,7 +1,19 @@
 {
-  "version": "0.0.0",
-  "updated_at": "",
-  "styles": [],
-  "track_counts": {},
-  "files": {}
+  "version": "2026.06.07.1",
+  "updated_at": "2026-06-07T08:53:38Z",
+  "styles": [
+    "Drum & Bass",
+    "House",
+    "Techno"
+  ],
+  "track_counts": {
+    "Drum & Bass": 1,
+    "House": 129,
+    "Techno": 25
+  },
+  "files": {
+    "Drum & Bass": "styles/drum-bass.json",
+    "House": "styles/house.json",
+    "Techno": "styles/techno.json"
+  }
 }
