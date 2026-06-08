@@ -1,19 +1,46 @@
 {
-  "version": "2026.06.07.1",
-  "updated_at": "2026-06-07T08:53:38Z",
+  "version": "2026.06.08.1",
+  "updated_at": "2026-06-08T06:17:20Z",
   "styles": [
+    "Afrobeat",
+    "Ambient",
     "Drum & Bass",
+    "Electronica",
+    "Funk",
+    "Hip-Hop",
     "House",
-    "Techno"
+    "Jungle",
+    "Lo-Fi",
+    "Minimal",
+    "Techno",
+    "Trance"
   ],
   "track_counts": {
-    "Drum & Bass": 1,
-    "House": 129,
-    "Techno": 25
+    "Afrobeat": 17,
+    "Ambient": 46,
+    "Drum & Bass": 210,
+    "Electronica": 32,
+    "Funk": 46,
+    "Hip-Hop": 50,
+    "House": 135,
+    "Jungle": 34,
+    "Lo-Fi": 27,
+    "Minimal": 48,
+    "Techno": 26,
+    "Trance": 40
   },
   "files": {
+    "Afrobeat": "styles/afrobeat.json",
+    "Ambient": "styles/ambient.json",
     "Drum & Bass": "styles/drum-bass.json",
+    "Electronica": "styles/electronica.json",
+    "Funk": "styles/funk.json",
+    "Hip-Hop": "styles/hip-hop.json",
     "House": "styles/house.json",
-    "Techno": "styles/techno.json"
+    "Jungle": "styles/jungle.json",
+    "Lo-Fi": "styles/lo-fi.json",
+    "Minimal": "styles/minimal.json",
+    "Techno": "styles/techno.json",
+    "Trance": "styles/trance.json"
   }
 }
